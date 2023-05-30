@@ -1,0 +1,34 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+    background-color:rgb(0, 157, 255)
+    }
+
+    #da_h3_tag{
+        width:fit-content;
+        height:150;
+        word-wrap:break-word;
+        display:inline-block;
+        }
+
+        #CoolSpanxD{
+            width:100%;    
+            background-color:rgb(0, 204, 255)
+            }
+
+            canvas{
+                border-style:ridge;
+                border-color:rgb(255, 0, 0);
+                border-width:15px;
+                animation:facename 15s infinite;
+                margin-top:50px;
+                margin-left:200px;
+                }
+                
+                video{
+                width:525px;
+                height:400px;    
+                margin-top:25px;
+                border-color:white;
+                border-width:10px;
+                border-style:dashed;
+                }
